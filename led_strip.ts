@@ -2,7 +2,7 @@
 //% weight=10 color=#fa3b3b icon="\uf008" block="Ledstrip"
 namespace LedStrip {
     // Define
-    let numofLeds = 20
+    let numofLeds = 10
     let leds: number[] = []
     let garbage: number[] = []
     leds = [3 * numofLeds]
