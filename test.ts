@@ -1,7 +1,1 @@
-LedStrip.SetLed(1, LedStrip.Color.Green)
-LedStrip.SetLed(2, LedStrip.Color.Red)
-LedStrip.SetLed(3, LedStrip.Color.Blue)
-LedStrip.SetLed(4, LedStrip.Color.White)
-LedStrip.SetLed(5, LedStrip.Color.Purple)
-LedStrip.SetLed(6, LedStrip.Color.Cyan)
-LedStrip.SetLed(7, LedStrip.Color.Yellow)
+ 
