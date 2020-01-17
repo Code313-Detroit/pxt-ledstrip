@@ -8,7 +8,8 @@
     "files": [
         "README.md",
         "dal.d.ts",
-        "main.ts"
+        "main.ts",
+        "led_strip.ts"
     ],
     "testFiles": [
         "test.ts"
