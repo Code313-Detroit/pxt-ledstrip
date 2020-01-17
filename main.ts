@@ -6,7 +6,7 @@ namespace ledStrip {
     let garbage: number[] = []
     leds = [3 * numofLeds]
     garbage = [3 * numofLeds]
-    pins.spiFrequency(10 * 1000 * 1000)
+    pins.spiFrequency(20 * 1000 * 1000)
     pins.spiMode(0)
 
     export enum Color {
